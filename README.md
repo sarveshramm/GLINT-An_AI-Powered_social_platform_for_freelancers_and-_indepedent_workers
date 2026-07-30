@@ -10,7 +10,7 @@
 [![AI](https://img.shields.io/badge/AI-Google_Gemini-4285F4?style=for-the-badge&logo=google)](https://ai.google.dev)
 [![ML](https://img.shields.io/badge/ML-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)](https://tensorflow.org)
 
----
+--- 
 
 # About
 
