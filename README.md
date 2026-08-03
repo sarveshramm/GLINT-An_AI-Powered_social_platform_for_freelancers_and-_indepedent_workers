@@ -1,5 +1,5 @@
 # GLINT — Where Skills Shine
-
+ 
 > An AI-Powered Social Media Platform for Freelancers and Independent Workers.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-glint--freelancer--platform.netlify.app-FF6B00?style=for-the-badge)](https://glint-freelancer-platform.netlify.app/)
