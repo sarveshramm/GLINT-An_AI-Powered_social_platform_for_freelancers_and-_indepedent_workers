@@ -2,7 +2,7 @@
  
 > An AI-Powered Social Media Platform for Freelancers and Independent Workers.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-glint--freelancer--platform.netlify.app-FF6B00?style=for-the-badge)](https://glint-freelancer-platform.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-glint--freelancer--platform.netlify.app-FF6B00?style=for-the-badge)](https://glint-freelancer-platform.netlify.app/) 
 
 [![Built With](https://img.shields.io/badge/Built_With-MERN_Stack-3FA037?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/mern-stack)
 [![Database](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb)](https://mongodb.com)
